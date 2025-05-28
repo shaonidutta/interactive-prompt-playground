@@ -98,3 +98,7 @@ cython_debug/
 
 # Environment variables file
 .env
+
+# Results and reflection files
+# results.csv
+# reflection.txt
